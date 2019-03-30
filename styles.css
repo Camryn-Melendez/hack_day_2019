@@ -1,0 +1,15 @@
+:root {
+    --main-orange: #ECB16B;
+    --main-green: #B0D07D;
+    --main-cream: #F5ECD6;
+}
+
+body {
+    margin: 0;
+    background: var(--main-orange);
+}
+
+.header {
+    color: var(--main-cream);
+    align-items: flex-start;
+}
